@@ -8,9 +8,9 @@ dataSources:
     name: ConverterRegistryContract
     network: CRA
     source:
-      address: "0x9129DbfEa3728569c2a6452F6CF777565b5F18C0"
+      address: "0xeb2fE16C8Bc906300c5D6029948E95d84a212fD3"
       abi: ConverterRegistryContract
-      startBlock: 889510
+      startBlock: 0
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.3
