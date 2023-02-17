@@ -8,7 +8,7 @@ dataSources:
     name: ConverterRegistryContract
     network: CRA
     source:
-      address: "0xeb2fE16C8Bc906300c5D6029948E95d84a212fD3"
+      address: "0x582FE1d2416595c3D26C045Dd6398f9742F21195"
       abi: ConverterRegistryContract
       startBlock: 0
     mapping:
