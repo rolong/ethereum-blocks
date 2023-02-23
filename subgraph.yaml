@@ -6,9 +6,9 @@ schema:
 dataSources:
   - kind: ethereum/contract
     name: ConverterRegistryContract
-    network: CRA
+    network: OPC
     source:
-      address: "0x582FE1d2416595c3D26C045Dd6398f9742F21195"
+      address: "0x1354C1C765BD6ee6B5A6f2955b0fe0608Aa263B4"
       abi: ConverterRegistryContract
       startBlock: 0
     mapping:
